@@ -1,0 +1,2 @@
+<svg height="250" width="250"  xmlns="http://www.w3.org/2000/svg" >
+   <circle cx="128" cy="128" r="120" stroke="black" stroke-width="3" fill="yellow" />   <path d="M100,160 Q128,190 156,160" fill="transparent" stroke="black" stroke-width="5"  transform="rotate(50)" transform-origin="50% 50%" />   <circle cx="100" cy="104" r="7" stroke="black" stroke-width="4"  /></svg>
